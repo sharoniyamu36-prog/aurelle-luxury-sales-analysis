@@ -116,11 +116,11 @@ These are preliminary recommendations. Final decisions should be supported by va
 ## Project Files
 
 - `Aurelle_Luxury_Sales_Analysis.xlsx` — Excel workbook containing the analysis and dashboard.
-- `images/aurelle-dashboard.png` — Dashboard preview.
+- `aurelle-dashboard.png` — Dashboard preview.
 
 ## Dashboard Preview
 
-![Aurelle Luxury Sales Dashboard](images/aurelle-dashboard.png)
+![Aurelle Luxury Sales Dashboard](aurelle-dashboard.png)
 
 ## Conclusion
 
